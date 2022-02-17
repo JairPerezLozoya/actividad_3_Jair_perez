@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Alumno:  Jair Humberto Perez Lozoya\nGrupo: TID41M\nMateria: Diseño de Apps \nDocente: Roberto Luna"
   }
 }
